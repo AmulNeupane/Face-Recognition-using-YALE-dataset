@@ -4,6 +4,7 @@ Face Recognition using OpenCV in Python
 
 # Prerequisites
 •	Numpy (Install Numpy via anaconda: conda install numpy)
+
 •	OpenCV (Install OpenCV via anaconda: conda install -c menpo opencv)
 
 # Running the tests
